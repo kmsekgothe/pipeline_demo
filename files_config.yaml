@@ -1,0 +1,4 @@
+tables:
+  customers: data/customers.csv
+  orders: data/orders.jsonl
+  order_items: data/order_items.csv
